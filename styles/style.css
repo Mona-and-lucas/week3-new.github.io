@@ -1,0 +1,54 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #c1c2c3;
+  font-family: 'Oxygen', sans-serif;
+  min-height: 1500px;
+}
+
+.header-color {
+	background-color: #f3c3c4;
+}
+
+
+#header-nav {
+  background-color: #ff0000;
+  border-radius: 0;
+  border: 0;
+  height: 80px;
+}
+ header {
+  background-color: #ff0000;
+
+ }
+
+.contents {
+  margin-left: 12px;
+  margin-right: 12px;
+  background-color: #0a394b;
+  min-height: 1350px;
+  margin-bottom: 10%;
+  position: relative;
+  float: left;
+}
+
+div.p {
+  padding: 10px;
+}
+
+h2 {
+  color: #000000;
+ text-align: center;
+}
+h4 {
+  text-align: center;
+}
+
+.lorem-words {
+  padding: .5em;
+}
+
+.container {
+  margin-left: 16%;
+}
+
